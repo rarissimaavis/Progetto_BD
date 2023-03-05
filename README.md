@@ -58,4 +58,5 @@ Le operazioni realizzate sono le seguenti:
 15. stampa di un report che mostri i dati delle strutture ricettive per una specifica città e che hanno ricevuto meno di 3 prenotazioni
 16. stampa di un report che mostri i dati delle prenotazioni che ancora non sono state effettuate ed il costo di ognuna di esse
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,eclipse)](https://skillicons.dev)
+#Tools 
+[![My Skills](https://skillicons.dev/icons?i=sql,java,mysql,eclipse)](https://skillicons.dev)
