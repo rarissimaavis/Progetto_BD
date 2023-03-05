@@ -22,4 +22,11 @@ Prima parte:
 - commenti sulle scelte progettuali effettuate 
 
 Seconda parte:
-
+- specifica del carico applicativo
+- sviluppo del carico applicativo
+- ristrutturazione dello schema
+- [schema ER ristrutturato](https://github.com/rarissimaavis/Progetto_BD/blob/main/schemi/schema_ER_ristrutturato.svg)
+- [mapping](https://github.com/rarissimaavis/Progetto_BD/blob/main/schemi/mapping.svg) verso lo schema logico relazionale
+- [creazione del database](https://github.com/rarissimaavis/Progetto_BD/blob/main/database/database.sql)
+- [caricamento dei dati](https://github.com/rarissimaavis/Progetto_BD/blob/main/database/insert.sql)
+- 
