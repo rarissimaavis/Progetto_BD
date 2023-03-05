@@ -1,1 +1,1 @@
-# Progetto_BD :purple_heart: :database:
+# Progetto_BD :purple_heart:
