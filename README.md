@@ -1,5 +1,5 @@
 # Progetto_BD :purple_heart:
-Progetto realizzato per il corso di Basi di Dati 2022/23 da [rarissimaavis](https://github.com/rarissimaavis) e [teadesimone](https://github.com/teadesimone)
+> Progetto realizzato per il corso di Basi di Dati 2022/23 da [rarissimaavis](https://github.com/rarissimaavis) e [teadesimone](https://github.com/teadesimone)
 
 # Obiettivo
 Creare un'applicazione per la gestione delle prenotazioni di strutture ricettive tramite una piattaforma web \
