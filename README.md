@@ -1,7 +1,7 @@
 # Progetto_BD :purple_heart:
 Progetto realizzato per il corso di Basi di Dati 2022/23 da [rarissimaavis](https://github.com/rarissimaavis) e [teadesimone](https://github.com/teadesimone)
 # Obiettivo
-Creare un'applicazione per la gestione delle prenotazioni di strutture ricettive tramite una piattaforma web
+Creare un'applicazione per la gestione delle prenotazioni di strutture ricettive tramite una piattaforma web \
 La piattaforma caratterizza le strutture ricettive registrate, le agenzie tramite cui possono essere effettuate le prenotazioni ed i clienti coinvolti nel processo di prenotazione di un viaggio
 L'introduzione di un'applicazione di questo tipo semplifica notevolmente la prenotazione di strutture ricettive evitando problematiche di overbooking
 # Funzionalità 
