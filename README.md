@@ -59,4 +59,4 @@ Le operazioni realizzate sono le seguenti:
 16. stampa di un report che mostri i dati delle prenotazioni che ancora non sono state effettuate ed il costo di ognuna di esse
 
 # Tools e linguaggi
-[![Skills](https://skillicons.dev/icons?i=SQL,java,mysql,eclipse)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,mysql,eclipse)](https://skillicons.dev)
