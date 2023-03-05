@@ -29,4 +29,10 @@ Seconda parte:
 - [mapping](https://github.com/rarissimaavis/Progetto_BD/blob/main/schemi/mapping.svg) verso lo schema logico relazionale
 - [creazione del database](https://github.com/rarissimaavis/Progetto_BD/blob/main/database/database.sql)
 - [caricamento dei dati](https://github.com/rarissimaavis/Progetto_BD/blob/main/database/insert.sql)
-- 
+
+Terza parte:
+- applicazione [piattaforma](https://github.com/rarissimaavis/Progetto_BD/tree/main/piattaforma) che comprende:
+  - connessione al database
+  - [implementazione delle operazioni](https://github.com/rarissimaavis/Progetto_BD/blob/main/database/query.sql) definite sul database
+  - stampa dei risultati di ogni operazione
+
