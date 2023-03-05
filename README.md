@@ -19,7 +19,7 @@ Prima parte:
 - analisi della specifica
 - glossario dei termini
 - traduzione nello [schema ER](https://github.com/rarissimaavis/Progetto_BD/blob/main/schemi/schema_ER.svg)
-- commenti sulle scelte progettuali effettuate \
+- commenti sulle scelte progettuali effettuate 
 
 Seconda parte:
 
