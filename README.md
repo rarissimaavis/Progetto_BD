@@ -13,12 +13,13 @@ Macro-operazioni:
 - applicazione sconto sul prezzo in relazione al tipo di fidelizzazione
 - ricerca delle strutture ricettive in base alla tipologia di richiesta del cliente
 # Struttura
-**Prima parte:**
+Prima parte:
 - introduzione
 - descrione dettagliata
 - analisi della specifica
 - glossario dei termini
 - traduzione nello [schema ER](https://github.com/rarissimaavis/Progetto_BD/blob/main/schemi/schema_ER.svg)
 - commenti sulle scelte progettuali effettuate \
+
 Seconda parte:
 
